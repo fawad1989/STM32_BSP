@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    stm32l432xx.h
+  * @file    stm32l432xx.hasd
   * @author  Fawad
   * @brief   CMSIS STM32L432xx Device Peripheral Access Layer Header File.
   *
